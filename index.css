@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #252A34;
+    color: #FF2E63;
+}
+#tittle{
+    position: relative;
+    margin-left: 42%;
+    font-family: 'Patrick Hand', cursive;
+}
+.main{
+    border: 3px solid #FF2E63;
+    position: absolute;
+    padding: 30px;
+    height: auto;
+    width: 90vw;
+    left: 34px;
+    border-radius: 20px;
+}
+.lists{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 2rem;
+}
+.search-tittle {
+    color: #FF2E63;
+    font-family: 'Patrick Hand', cursive;
+    margin-left: 40%;
+    word-spacing: 12px;
+}
+.appen{
+    font-family: 'Patrick Hand', cursive;
+    font-size: larger;
+}
+#get-result{
+    font-family: 'Patrick Hand', cursive;
+    height: 50px;
+    width: 100px;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: 420ms;
+    color: #FF2E63;
+    background-color: #A8E6CF;
+    position: relative;
+    left: 12px;
+    border: none;
+    font-size: 17px;
+
+
+}
+#get-result:hover{
+    height: 54px;
+    /* width: 103px; */
+}
+#search-box{
+    margin-left: 41%;
+    height: 45px;
+    width: 257px;
+    border-radius: 10px;
+}
+
